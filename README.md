@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=220&section=header&text=Hi%20There!%20I'm%20Shubham%20Bisht&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=220&section=header&text=Hi%20there!%20I'm%20Shubham%20Bisht&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Scalable+Web+Applications;Turning+Ideas+into+Real-World+Products" alt="Typing SVG"/>
@@ -21,7 +21,7 @@
 - 📄 **Resume:** [View my experience](https://drive.google.com/file/d/1JRjNLrMsrdswWORynJFs9EPzht-WyFFb/view)
 - 📫 **Reach me:** shubhambisht@zohomail.in
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -40,7 +40,7 @@
 
 </div>
 
-## 🛠️ Languages & Tools
+## ⚡Powered By
 
 <div align="center">
 
