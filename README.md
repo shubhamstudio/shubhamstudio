@@ -62,8 +62,6 @@
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamstudio&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 🔥 Thanks for stopping by — let's build something great together!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
