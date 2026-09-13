@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<a href="https://shubhamstudio.github.io/Portfolio" target="_blank">
+<a href="https://shubhambisht.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://twitter.com/shubhambisht_" target="_blank">
