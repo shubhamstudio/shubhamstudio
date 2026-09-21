@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 Full Stack Developer crafting modern web experiences.
+- 💻 AI - Enabled Full Stack Developer crafting modern web experiences.
 - 🤖 AI Engineer building intelligent systems with LLMs and Agentic AI.
 - 🌱 Always learning. Always building. Always improving.
 - 📄 **Resume:** [View my experience](https://drive.google.com/file/d/1JRjNLrMsrdswWORynJFs9EPzht-WyFFb/view)
