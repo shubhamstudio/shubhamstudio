@@ -1,0 +1,59 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#1A1216"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#FF2E4D" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#FF2E4D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#fff" stroke-opacity=".04"/>
+    </pattern>
+    <clipPath id="clip"><rect width="900" height="260" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="900" height="260" fill="url(#bg)"/>
+    <rect width="900" height="260" fill="url(#grid)"/>
+
+    <circle cx="720" cy="60" r="190" fill="url(#glow)">
+      <animate attributeName="cx" values="680;780;680" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="40;100;40" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="160" cy="220" r="130" fill="url(#glow)" opacity=".5">
+      <animate attributeName="cx" values="140;220;140" dur="14s" repeatCount="indefinite"/>
+    </circle>
+
+    <g fill="#FF3B5C">
+      <circle cx="120" cy="200" r="2"><animate attributeName="cy" values="220;40" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="330" cy="230" r="1.5"><animate attributeName="cy" values="250;30" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="9s" repeatCount="indefinite"/></circle>
+      <circle cx="590" cy="210" r="2"><animate attributeName="cy" values="240;20" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="8s" repeatCount="indefinite"/></circle>
+      <circle cx="800" cy="230" r="1.5"><animate attributeName="cy" values="250;50" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="10s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <rect y="0" width="160" height="260" fill="url(#sweep)">
+      <animate attributeName="x" values="-200;900" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="450" y="125" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#fff" opacity="0">
+      Shubham Bisht
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    </text>
+    <text x="450" y="162" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="6" fill="#9AA4B2" opacity="0">
+      AI-ENABLED FULL STACK DEVELOPER
+      <animate attributeName="opacity" from="0" to="1" dur="1s" begin=".6s" fill="freeze"/>
+    </text>
+    <rect x="450" y="185" width="0" height="3" rx="1.5" fill="#FF2E4D">
+      <animate attributeName="x" from="450" to="390" dur="1s" begin="1.2s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="120" dur="1s" begin="1.2s" fill="freeze"/>
+    </rect>
+  </g>
+  <rect x=".5" y=".5" width="899" height="259" rx="22" fill="none" stroke="#fff" stroke-opacity=".08"/>
+</svg>
