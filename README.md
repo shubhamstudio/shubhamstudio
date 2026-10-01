@@ -22,7 +22,7 @@
 - 💻 AI-enabled full stack developer crafting modern web experiences
 - 🤖 Building intelligent systems with LLMs and agentic AI
 - 🌱 Always learning. Always building. Always improving.
-- 📄 **Resume:** [View my experience](https://drive.google.com/file/d/1JRjNLrMsrdswWORynJFs9EPzht-WyFFb/view)
+- 📄 **Resume:** [View my experience](https://drive.google.com/file/d/1dnLRIujv8hco45dAwurAk_rV2tvU_okz)
 - 📫 **Reach me:** shubhambisht@zohomail.in
 
 <img src="./divider.svg" width="100%"/>
