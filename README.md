@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Shubham Bisht"/>
+<img src="./header.svg" width="100%" alt="Shubham Bisht"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF3B5C&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;AI+Engineer+%7C+LLMs+%26+Agents;Building+Scalable+Web+Applications;Turning+Ideas+into+Real-World+Products" alt="Typing SVG"/>
@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 🧑‍💻 About Me
 
@@ -25,7 +25,7 @@
 - 📄 **Resume:** [View my experience](https://drive.google.com/file/d/1JRjNLrMsrdswWORynJFs9EPzht-WyFFb/view)
 - 📫 **Reach me:** shubhambisht@zohomail.in
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## ⚡ Tech Stack
 
@@ -45,4 +45,4 @@
 
 </div>
 
-<img src="./assets/footer.svg" width="100%"/>
+<img src="./footer.svg" width="100%"/>
