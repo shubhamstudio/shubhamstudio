@@ -1,0 +1,21 @@
+<svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="l" x1="0" x2="1">
+      <stop offset="0" stop-color="#FF2E4D" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FF2E4D" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#FF2E4D" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="dot">
+      <stop offset="0" stop-color="#FF2E4D"/>
+      <stop offset="1" stop-color="#FF2E4D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <text x="450" y="34" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="2" fill="#9AA4B2">
+    LET'S BUILD SOMETHING GREAT TOGETHER
+    <animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <rect x="0" y="62" width="900" height="1.5" fill="url(#l)"/>
+  <circle cy="62.7" r="8" fill="url(#dot)">
+    <animate attributeName="cx" values="0;900" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
